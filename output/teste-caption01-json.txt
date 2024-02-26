@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "5fd97ea7-4a30-4654-a519-2768d3e10687",
+  "content-length": "151",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a fox standing on snow",
+    "confidence": 0.7982796430587769
+  },
+  "metadata": {
+    "width": 4928,
+    "height": 3280
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "998de5fd-9286-4f7e-a48e-4f1ad8dc6919",
+  "content-length": "167",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a wooden bridge with fall leaves on it",
+    "confidence": 0.6726786494255066
+  },
+  "metadata": {
+    "width": 4194,
+    "height": 2767
+  }
+}

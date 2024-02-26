@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "2f5a2590-dd9f-4d1a-84d7-9d677cb05a66",
+  "content-length": "157",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a cliff with trees and water",
+    "confidence": 0.6293706893920898
+  },
+  "metadata": {
+    "width": 5504,
+    "height": 8256
+  }
+}

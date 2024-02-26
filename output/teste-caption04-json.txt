@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "95eb0c8d-b663-4b1b-8458-74d1bd49e49a",
+  "content-length": "152",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a tiger walking on dirt",
+    "confidence": 0.8139222264289856
+  },
+  "metadata": {
+    "width": 2155,
+    "height": 3232
+  }
+}

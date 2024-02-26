@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "12cfda2e-eeee-4718-ba04-02cd5f812200",
+  "content-length": "173",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a lake with snow covered mountains and trees",
+    "confidence": 0.6383029222488403
+  },
+  "metadata": {
+    "width": 7952,
+    "height": 5304
+  }
+}

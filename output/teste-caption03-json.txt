@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "471f830b-ae6a-4536-bad4-cf1fcb8c001d",
+  "content-length": "158",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a polar bear standing on snow",
+    "confidence": 0.8470261693000793
+  },
+  "metadata": {
+    "width": 4272,
+    "height": 2848
+  }
+}
